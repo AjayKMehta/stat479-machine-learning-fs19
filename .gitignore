@@ -108,3 +108,4 @@ venv.bak/
 .mypy_cache/
 
 06_trees/code/images/
+.vscode/
